@@ -98,6 +98,22 @@ export const AmazonUk: Store = {
     {
       brand: 'asus',
       cartUrl:
+        'https://www.amazon.co.uk/gp/aws/cart/add.html?ASIN.1=B08HN5B8FJ&Quantity.1=1',
+      model: 'tuf',
+      series: '3090',
+      url: 'https://www.amazon.co.uk/dp/B08HN5B8FJ',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.co.uk/gp/aws/cart/add.html?ASIN.1=B08HN51T8Q&Quantity.1=1',
+      model: 'strix oc',
+      series: '3090',
+      url: 'https://www.amazon.co.uk/dp/B08HN51T8Q',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
         'https://www.amazon.co.uk/gp/aws/cart/add.html?ASIN.1=B08HN7VVLJ&Quantity.1=1',
       model: 'strix',
       series: '3080',
